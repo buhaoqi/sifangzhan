@@ -1,8 +1,8 @@
 module.exports = {
   title: '私房站',
   tagline: 'The tagline of my site',
-  url: 'https://sifangzhan.com',
-  baseUrl: '/',
+  url: 'https://buhaoqi.github.io/',
+  baseUrl: '/sifangzhan/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
