@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'My Site',
+  title: '私房站',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://sifangzhan.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'buhaoqi', // Usually your GitHub org/user name.
+  projectName: 'sifangzhan', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -24,7 +24,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/buhaoqi/sifangzhan',
           label: 'GitHub',
           position: 'right',
         },
