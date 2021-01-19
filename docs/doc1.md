@@ -1,203 +1,154 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: 设计师常用站
+sidebar_label: 设计师常用站
 slug: /
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
-
-## Markdown Syntax
-
-To serve as an example page when styling markdown based Docusaurus sites.
-
-## Headers
-
-# H1 - Create the best documentation
-
-## H2 - Create the best documentation
-
-### H3 - Create the best documentation
-
-#### H4 - Create the best documentation
-
-##### H5 - Create the best documentation
-
-###### H6 - Create the best documentation
-
----
-
-## Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
----
-
-## Lists
-
-1. First ordered list item
-1. Another item
-   - Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-   1. Ordered sub-list
-1. And another item.
-
-* Unordered list can use asterisks
-
-- Or minuses
-
-+ Or pluses
-
----
-
-## Links
-
-[I'm an inline-style link](https://www.google.com/)
-
-[I'm an inline-style link with title](https://www.google.com/ "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com/ or <http://www.example.com/> and sometimes example.com (but not on GitHub, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org/
-[1]: http://slashdot.org/
-[link text itself]: http://www.reddit.com/
-
----
-
-## Images
-
-Here's our logo (hover to see the title text):
-
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
-
-Reference-style: ![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
-
-Images from any folder can be used by providing path to file. Path should be relative to markdown file.
-
-![img](../static/img/logo.svg)
-
----
-
-## Code
-
-```javascript
-var s = 'JavaScript syntax highlighting';
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print(s)
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-```js {2}
-function highlightMe() {
-  console.log('This line can be highlighted!');
-}
-```
-
----
-
-## Tables
-
-Colons can be used to align columns.
-
-| Tables        |      Are      |   Cool |
-| ------------- | :-----------: | -----: |
-| col 3 is      | right-aligned | \$1600 |
-| col 2 is      |   centered    |   \$12 |
-| zebra stripes |   are neat    |    \$1 |
-
-There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-## Blockquotes
-
-> Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
----
-
-## Inline HTML
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-## Line Breaks
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
-
-This line is also a separate paragraph, but... This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
-
----
-
-## Admonitions
-
-:::note
-
-This is a note
-
-:::
-
-:::tip
-
-This is a tip
-
-:::
-
-:::important
-
-This is important
-
-:::
-
-:::caution
-
-This is a caution
-
-:::
-
-:::warning
-
-This is a warning
-
-:::
+## 图库
+
+| 网站名称 |  特点    |
+| -------- | --------- | 
+| **[unsplash](https://unsplash.com/) **|`照片库` `免费商用` `高质量` `数量多` `无需注册` `颜色筛选` `方向筛选`|
+| **[pxhere](https://pxhere.com/)** | `照片库`  `免费商用` `高质量` `数量多` `需注册` `颜色筛选` `方向筛选` |
+| **[pixabay](https://pixabay.com/)** | `照片库` `插画库` `免费商用` `高质量` `数量一般` `无需注册` `颜色筛选` `方向筛选` `支持中文`|
+| **[500px](https://500px.com/)** | `照片库` `付费` `免费`  |
+| **[reshot](https://www.reshot.com/)** | `照片库` `限范围免费商用` |
+| **[burst](https://burst.shopify.com/)** | `照片库` `免费商用` `质量高` `数量一般` `无需注册` `无筛选` |
+| **[kaboompics](https://kaboompics.com/)** | `照片库` `免费商用` `数量少` `无需注册` `颜色筛选` `方向筛选` |
+| **[negativespace](https://negativespace.co/)** |  `待补充` |
+| **[foodiesfeed](https://www.foodiesfeed.com/)** | `食品图库` |
+| **[lifeofpix](https://www.lifeofpix.com/)** |  `待补充` |
+| **[freestocks](https://freestocks.org/)** | `速度慢` |
+| **[gratisography](https://gratisography.com/)** | `创意图库`  |
+| **[magdeleine](https://magdeleine.co/)** | `精选免费照片库`  |
+
+## 免抠PNG
+
+| 网站名称 |  特点    |
+| -------- | --------- | 
+| **[觅元素](http://www.51yuansu.com/)** | `免费` `付费` `商用需谨慎` |
+| **[subpng](https://www.subpng.com/)** | `免费不可商用` |
+| **[pngimg](https://pngimg.com/)** | `免费不可商用` |
+| **[透明纹理](https://www.transparenttextures.com/)** | `免费` `直接下载` |
+| **[yellowimages](https://yellowimages.com/images-360)** | `360度免抠` `收费` |
+
+## 矢量图标
+
+| 网站名称 |  特点    |
+| -------- | --------- | 
+| **[阿里巴巴矢量图标库](https://www.iconfont.cn/collections/index)** | `免费` `付费` |
+| **[icons8](https://icons8.com/)** | `免费` `付费` |
+| **[flaticon](https://www.flaticon.com/)** | `免费` `付费` |
+| **[iconfinder](https://www.iconfinder.com/)** | `免费` `付费`|
+| **[drawkit](https://www.drawkit.io/free-icons)** | `免费商用` |
+| **[instantlogosearch](http://www.instantlogosearch.com/)** | `大公司的矢量LOGO` `免费` |
+| **[drawkit](https://www.drawkit.io/free-icons)** | `免费商用` |
+
+## 矢量插画
+
+| 网站名称 |  特点    |
+| -------- | --------- | 
+| **[Undraw](https://undraw.co/illustrations) **| `免费商用` |
+| **[阿里巴巴矢量插画](https://www.iconfont.cn/illustrations/index) **| `免费` `付费` | 
+| **[icons8](https://icons8.com/illustrations)** | `免费` `付费` |
+| **[paaatterns](https://products.ls.graphics/paaatterns/)** | `免费商用` | 
+| **[isometric](https://isometric.online/) **| `免费商用` |
+| **[glazestock](https://www.glazestock.com/)** | `免费商用` | 
+| **[mixkit](https://mixkit.co/free-stock-art/)** | `限范围免费商用` `质量高` `数量少` |
+| **[humaaans](https://www.humaaans.com/)** | `自定义人物` `免费商用` `推荐` |
+| **[itg](https://app.itg.digital/)** | `自定义插画` `付费` |
+| **[opendoodles](https://www.opendoodles.com/)** | `免费商用` `数量少` `有特色`|
+| **[lukaszadam](https://lukaszadam.com/illustrations)** | `免费商用` `质量高` |
+| **[drawkit](https://www.drawkit.io/)** | `免费商用` |
+| **[manypixels](https://www.manypixels.co/gallery)** | `免费商用` `有特色` |
+| **[absurd](https://absurd.design/)** | `付费商用` `风格荒谬` `有特色` |
+
+## 设计灵感
+
+| 网站名称 |  特点 |
+| -------- | --------- |
+| **[花瓣](https://huaban.com/)** | `综合`|
+| **[站酷](https://www.zcool.com.cn/)** | `综合`|
+| **[优设](https://www.uidsdc.com/)** | `综合`|
+| **[UE-DNA](http://www.uedna.com/)** | `综合`|
+| **[pinterest](https://pinterest.com/)** | `综合` `被禁` |
+| **[behance](https://behance.net/)** | `综合` `被禁`|
+| **[dribbble](https://dribbble.com/)** | `综合`|
+| **[screenlane](https://screenlane.com/)** | `UI设计` `分类较细`|
+| **[reeoo](http://reeoo.com/)** | `网页设计` `APP设计` `启动图标设计` `免费资源下载` |
+
+## UI设计规范
+
+| 网站名称 |  特点 |
+| -------- | --------- | 
+| **[人机交互指南](https://developer.apple.com/design/human-interface-guidelines/)** | `苹果官网UI设计规范` `Human Interface Guidelines` `英文版`|
+| **[Material](https://material.io/design)** | `安卓官网UI设计规范` `material` `英文版` |
+| **[mdui](https://www.mdui.org/design/)** | `安卓UI设计规范` `中文翻译版`|
+
+## 配色
+
+| 网站名称 |  特点 |
+| -------- | --------- | 
+| **[uigradients](https://uigradients.com/)** | `渐变色板` |
+| **[palettable](https://www.palettable.io/)** | `根据喜好找配色` |
+| **[colordrop](https://www.colordrop.io/)** | `色板` |
+| **[adobe color](https://color.adobe.com)** | `Adobe` `配色板` `直接导入AI` |
+| **[colorhunt](https://colorhunt.co/)** | `配色板` |
+| **[brandcolors](https://brandcolors.net/)** | `世界大牌品牌色卡` |
+| **[colorlisa](http://colorlisa.com/)** | `来自艺术家的色板` |
+| **[boldwebdesign](https://www.boldwebdesign.com.au/colour-palettes/)** | `来自财富500强的品牌色板` `LOGO汇总` |
+| **[colorsinspo](https://colorsinspo.com/)** | `配色板` `渐变色板` `品牌色` |
+| **[picular](https://picular.co/)** | `根据关键词找颜色` |
+| **[ls](https://products.ls.graphics/mesh-gradients/)** | `任意渐变库` `免费` `付费` |
+| **[jxnblk](https://colorable.jxnblk.com/)** | `调整文字与背景色的工具`  |
+
+## 资源
+
+| 网站名称 |  特点 |
+| -------- | --------- | 
+| **[ui8](https://www.ui8.net/)** | `各种UI源文件` `付费` `免费` |
+| **[xdresources](https://xdresources.co/)** | `各种UI设计资源` `付费` `免费` |
+| **[applypixels](https://applypixels.com/)** | `PS模板` `AI模板` `FIGMA模板` `付费` `免费` |
+| **[psfiles](https://psfiles.com/)** | `免费PSD文件` `各种印刷设计模板` `UI模板` `样机文件` `笔刷`|
+| **[ls](https://www.ls.graphics/)** | `样机` `付费` `免费` |
+| **[freebiesbug](https://freebiesbug.com/)** | `免费源文件` `样机` `sketch模板` `网页模板` 
+ |
+### UI组件库
+
+| 网站名称 |  特点 |
+| -------- | --------- | 
+| **[苹果官网设计资源](https://developer.apple.com/design/resources/)** | [iOS-14-Sketch.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-Sketch.dmg) [iOS-14-Photoshop.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-Photoshop.dmg) [IOS-14-AdobeXD.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-AdobeXD.dmg)|
+| **[安卓官网设计资源](https://material.io/resources)** | [xd-material-design-light-and-dark-themes.zip下载](https://download.adobe.com/pub/adobe/xd/ui-kits/xd-material-design-light-and-dark-themes.zip)|
+| **[Adobe XD官网组件库](https://www.adobe.com/cn/products/xd/features/ui-kits.html)** | `各种免费组件库` |
+| **[Bootstrap 5组件库](https://www.adobe.com/cn/products/xd/features/ui-kits.html)** | [xd-bootstrap-v.5-ui-kit.xd.zip下载](https://download.adobe.com/pub/adobe/xd/ui-kits/xd-bootstrap-v.5-ui-kit.xd.zip) |
+
+## 工具类
+
+| 网站名称 |  特点    |
+| -------- | --------- | 
+| **[eagle](https://eagle.cool/)** | `设计师的图片文件管理器` |
+| **[稿定设计](https://www.gaoding.com/)** | `在线设计神器` |
+| **[remove](https://www.remove.bg/)** | `免费去背`  |
+| **[屏幕分辨率统计](https://cn.screenresolution.org/)** | `用户屏幕分辨率发展数据` |
+| **[百度统计](https://tongji.baidu.com/research/site?source=index)** | `网站数据` `移动数据` |
+| **[腾讯移动分析](https://mta.qq.com/mta/data/device)** | `网站数据` `移动数据` |
+| **[放大图片](https://bigjpg.com/)** | `在线无损放大图片` |
+| **[ICO转换器](https://www.icoconverter.com/)** | `在线转换ICO文件` |
+| **[snipaste](https://www.icoconverter.com/)** | `截图+贴图` `win平台`  `免费`|
+
+## Adobe官网教程
+
+| 网站名称 |  特点 |
+| -------- | --------- |
+| **[Photoshop用户指南](https://helpx.adobe.com/cn/photoshop/user-guide.html)** | `官网教程`|
+| **[Illustrator用户指南](https://helpx.adobe.com/cn/illustrator/user-guide.html)** | `官网教程`|
+| **[XD用户指南](https://helpx.adobe.com/cn/xd/user-guide.html)** | `官网教程`|
+| **[Indesign用户指南](https://helpx.adobe.com/cn/indesign/user-guide.html)** | `官网教程`|
+| **[Premiere Pro用户指南](https://helpx.adobe.com/cn/premiere-pro/user-guide.html)** | `官网教程`|
+| **[After Effects用户指南](https://helpx.adobe.com/cn/after-effects/user-guide.html)** | `官网教程`|
+| **[Bridge用户指南](https://helpx.adobe.com/cn/bridge/user-guide.html)** | `官网教程`|
+| **[Dimension用户指南](https://helpx.adobe.com/cn/dimension/user-guide.html)** | `官网教程`|
+| **[Media Encoder用户指南](https://helpx.adobe.com/cn/media-encoder/user-guide.html)** | `官网教程`|
+| **[Adobe Fonts用户指南](https://helpx.adobe.com/cn/fonts/user-guide.html)** | `官网教程`|
+| **[Portfolio用户指南](https://help.myportfolio.com/)** | `官网教程`|
