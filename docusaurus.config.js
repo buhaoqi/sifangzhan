@@ -47,7 +47,15 @@ module.exports = {
             // Optional fields.
             anonymizeIP: true, // Should IPs be anonymized?
           },
-  },
+        },
+        plugins: ['@docusaurus/plugin-google-gtag'],
+        themeConfig: {
+          gtag: {
+            trackingID: 'UA-187715343-1',
+            // Optional fields.
+            anonymizeIP: true, // Should IPs be anonymized?
+          },
+        },
       },
     ],
   ],
