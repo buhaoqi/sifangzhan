@@ -30,6 +30,11 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        googleAnalytics: {
+          trackingID: 'UA-187715343-1',
+          // Optional fields.
+          anonymizeIP: true, // Should IPs be anonymized?
+        },
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
@@ -40,24 +45,7 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        plugins: ['@docusaurus/plugin-google-analytics'],
-        themeConfig: {
-          googleAnalytics: {
-            trackingID: 'UA-187715343-1',
-            // Optional fields.
-            anonymizeIP: true, // Should IPs be anonymized?
-          },
-        },
-        plugins: ['@docusaurus/plugin-google-gtag'],
-        themeConfig: {
-          gtag: {
-            trackingID: 'UA-187715343-1',
-            // Optional fields.
-            anonymizeIP: true, // Should IPs be anonymized?
-          },
-        },
       },
     ],
   ],
-
 };
