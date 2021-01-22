@@ -22,6 +22,7 @@ slug: /
 | **[freestocks](https://freestocks.org/)** | `速度慢` |
 | **[gratisography](https://gratisography.com/)** | `创意图库`  |
 | **[magdeleine](https://magdeleine.co/)** | `精选免费照片库`  |
+| **[ls](https://www.ls.graphics/)** | `样机` `付费` `免费` |
 
 ## 免抠PNG
 
@@ -86,6 +87,20 @@ slug: /
 | **[Material](https://material.io/design)** | `安卓官网UI设计规范` `material` `英文版` |
 | **[mdui](https://www.mdui.org/design/)** | `安卓UI设计规范` `中文翻译版`|
 
+## UI组件库
+
+| 网站名称 |  特点  |
+| -------- | --------- |
+| **[苹果官网设计资源](https://developer.apple.com/design/resources/)** | [iOS-14-Sketch.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-Sketch.dmg) [iOS-14-Photoshop.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-Photoshop.dmg) [IOS-14-AdobeXD.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-AdobeXD.dmg)|
+| **[安卓官网设计资源](https://material.io/resources)** | [xd-material-design-light-and-dark-themes.zip下载](https://download.adobe.com/pub/adobe/xd/ui-kits/xd-material-design-light-and-dark-themes.zip)|
+| **[Adobe XD官网组件库](https://www.adobe.com/cn/products/xd/features/ui-kits.html)** | `各种免费组件库` |
+| **[Bootstrap 5组件库](https://www.adobe.com/cn/products/xd/features/ui-kits.html)** | [xd-bootstrap-v.5-ui-kit.xd.zip下载](https://download.adobe.com/pub/adobe/xd/ui-kits/xd-bootstrap-v.5-ui-kit.xd.zip) |
+| **[ui8](https://www.ui8.net/)** | `各种UI源文件` `付费` `免费` |
+| **[xdresources](https://xdresources.co/)** | `各种UI设计资源` `付费` `免费` |
+| **[applypixels](https://applypixels.com/)** | `PS模板` `AI模板` `FIGMA模板` `付费` `免费` |
+| **[psfiles](https://psfiles.com/)** | `免费PSD文件` `各种印刷设计模板` `UI模板` `样机文件` `笔刷`|
+| **[freebiesbug](https://freebiesbug.com/)** | `免费源文件` `样机` `sketch模板` `网页模板`|
+
 ## 配色
 
 | 网站名称 |  特点 |
@@ -103,25 +118,6 @@ slug: /
 | **[ls](https://products.ls.graphics/mesh-gradients/)** | `任意渐变库` `免费` `付费` |
 | **[jxnblk](https://colorable.jxnblk.com/)** | `调整文字与背景色的工具`  |
 
-## 资源
-
-| 网站名称 |  特点 |
-| -------- | --------- |
-| **[ui8](https://www.ui8.net/)** | `各种UI源文件` `付费` `免费` |
-| **[xdresources](https://xdresources.co/)** | `各种UI设计资源` `付费` `免费` |
-| **[applypixels](https://applypixels.com/)** | `PS模板` `AI模板` `FIGMA模板` `付费` `免费` |
-| **[psfiles](https://psfiles.com/)** | `免费PSD文件` `各种印刷设计模板` `UI模板` `样机文件` `笔刷`|
-| **[ls](https://www.ls.graphics/)** | `样机` `付费` `免费` |
-| **[freebiesbug](https://freebiesbug.com/)** | `免费源文件` `样机` `sketch模板` `网页模板`
- |
-### UI组件库
-
-| 网站名称 |  特点  |
-| -------- | --------- |
-| **[苹果官网设计资源](https://developer.apple.com/design/resources/)** | [iOS-14-Sketch.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-Sketch.dmg) [iOS-14-Photoshop.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-Photoshop.dmg) [IOS-14-AdobeXD.dmg下载](https://devimages-cdn.apple.com/design/resources/download/iOS-14-AdobeXD.dmg)|
-| **[安卓官网设计资源](https://material.io/resources)** | [xd-material-design-light-and-dark-themes.zip下载](https://download.adobe.com/pub/adobe/xd/ui-kits/xd-material-design-light-and-dark-themes.zip)|
-| **[Adobe XD官网组件库](https://www.adobe.com/cn/products/xd/features/ui-kits.html)** | `各种免费组件库` |
-| **[Bootstrap 5组件库](https://www.adobe.com/cn/products/xd/features/ui-kits.html)** | [xd-bootstrap-v.5-ui-kit.xd.zip下载](https://download.adobe.com/pub/adobe/xd/ui-kits/xd-bootstrap-v.5-ui-kit.xd.zip) |
 
 ## 工具类
 

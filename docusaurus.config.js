@@ -1,6 +1,6 @@
 module.exports = {
   title: '私房站',
-  tagline: 'The tagline of my site',
+  //tagline: 'The tagline of my site',
   url: 'https://buhaoqi.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
