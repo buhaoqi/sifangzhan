@@ -9,6 +9,11 @@ module.exports = {
   organizationName: 'buhaoqi', // Usually your GitHub org/user name.
   projectName: 'sifangzhan', // Usually your repo name.
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-187715343-1',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: '私房站',
       logo: {
@@ -26,15 +31,17 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} 私房站 Built with Docusaurus.`,
     },
   },
+  scripts: [
+    {
+      src:
+        'https://www.googletagmanager.com/gtag/js?id=UA-187715343-1',
+      async: true,
+    },
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
       {
-        googleAnalytics: {
-          trackingID: 'UA-187715343-1',
-          // Optional fields.
-          anonymizeIP: true, // Should IPs be anonymized?
-        },
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
